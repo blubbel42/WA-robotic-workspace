@@ -315,7 +315,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/blubbel42.github.io\/WA-robotic-workspace\/bluescreen.tmj"
+                 "value":"https:\/\/blubbel42.github.io\/WA-robotic-workspace\/bluescreen.json"
                 }],
          "type":"tilelayer",
          "visible":true,
