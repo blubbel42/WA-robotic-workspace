@@ -4463,7 +4463,7 @@
         {
           "name": "exitUrl",
           "type": "string",
-          "value": "https://blubbel42.github.io/WA-robotic-workspace/bluescreen.tmj"
+          "value": "https://blubbel42.github.io/WA-robotic-workspace/bluescreen.json"
         }
       ],
       "x": 0,
@@ -4475,7 +4475,7 @@
     {
       "columns": 14,
       "firstgid": 1,
-      "image": "winzigweich-chunk-1-0ec8aa81.png",
+      "image": "winzigweich-chunk-1-c17be9bb.png",
       "imageheight": 448,
       "imagewidth": 448,
       "margin": 0,
