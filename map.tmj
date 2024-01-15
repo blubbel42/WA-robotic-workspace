@@ -509,7 +509,7 @@
                  "value":"https:\/\/blubbel42.github.io\/WA-robotic-workspace\/winzigweich.tmj"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":48,
          "x":0,
          "y":0
@@ -558,7 +558,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/blubbel42.github.io\/WA-robotic-workspace\/audio\/NyanCatSound.mp3"
+                 "value":"\/audio\/NyanCatSound.mp3"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -640,23 +640,6 @@
                  "y":65
                 }, 
                 {
-                 "height":112,
-                 "id":7,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"kitchen"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":215,
-                 "x":1029,
-                 "y":76
-                }, 
-                {
                  "height":153,
                  "id":10,
                  "name":"",
@@ -674,7 +657,7 @@
                  "y":353
                 }, 
                 {
-                 "height":211,
+                 "height":186,
                  "id":12,
                  "name":"",
                  "properties":[
@@ -686,9 +669,26 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":306,
-                 "x":430,
-                 "y":427
+                 "width":230,
+                 "x":478,
+                 "y":479
+                }, 
+                {
+                 "height":58,
+                 "id":15,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/mt.cert.ccc.de\/"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":46,
+                 "x":378,
+                 "y":500
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1111,7 +1111,7 @@
          "y":0
         }],
  "nextlayerid":23,
- "nextobjectid":13,
+ "nextobjectid":17,
  "orientation":"orthogonal",
  "properties":[
         {
