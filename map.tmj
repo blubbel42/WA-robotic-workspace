@@ -506,7 +506,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/blubbel42.github.io\/WA-robotic-workspace\/winzigweich.json"
+                 "value":"https:\/\/blubbel42.github.io\/WA-robotic-workspace\/winzigweich.tmj"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -558,7 +558,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/audio\/NyanCatSound.mp3"
+                 "value":"https:\/\/blubbel42.github.io\/WA-robotic-workspace\/audio\/NyanCatSound.mp3"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -674,7 +674,7 @@
                  "y":353
                 }, 
                 {
-                 "height":196,
+                 "height":211,
                  "id":12,
                  "name":"",
                  "properties":[
@@ -686,9 +686,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":210,
+                 "width":306,
                  "x":430,
-                 "y":442
+                 "y":427
                 }],
          "opacity":1,
          "type":"objectgroup",
