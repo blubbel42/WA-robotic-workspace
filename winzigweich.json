@@ -197,9 +197,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"gallerie.json#startWinDesktop"
+                 "value":"https:\/\/blubbel42.github.io\/WA-robotic-workspace\/map.tmj"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -313,9 +313,9 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"bluescreen.json"
+                 "value":"https:\/\/blubbel42.github.io\/WA-robotic-workspace\/bluescreen.json"
                 }],
          "type":"tilelayer",
          "visible":true,
