@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Map editor files
+*.tiled-project
+*.tiled-session
