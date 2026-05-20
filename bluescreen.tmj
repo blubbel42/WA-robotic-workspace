@@ -159,6 +159,12 @@
          "id":11,
          "name":"start",
          "opacity":0,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":24,
@@ -329,6 +335,15 @@
          "tilecount":9,
          "tileheight":32,
          "tiles":[
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"string",
+                         "value":"entry"
+                        }]
+                }, 
                 {
                  "id":3,
                  "properties":[
